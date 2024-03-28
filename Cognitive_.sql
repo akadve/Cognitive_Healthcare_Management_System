@@ -1,11 +1,4 @@
---Name:Annmay Manasi Manoj Kadve
---Subject: IFT 511
---Instructor: Ashish Gulati
---Project: Psychological Disorders Management System.
---Date of Submission: November 28 20233
 
-
------------------Creating Database----------
 
 -- Create the database
 CREATE DATABASE ANNMA900;
